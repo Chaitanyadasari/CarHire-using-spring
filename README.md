@@ -4,15 +4,7 @@
 
 * Sai Chaitanya Dasari </br>
 I handled varying parts in the project including Admin module in backend and frontend, dockerized the whole application using Maven and deployed on AWS load balancer with Auto Scaling connecting to AWS RDS, and UI development along with CI with Jenkins, and documentation.
-
-* Krutika Katelia </br>
-I handled the development of the entire Reservations + Reviews module including the functional APIs, Driver/Drivercard modules, integration and regression testing for backend, and documentation.
-
-* Sathya Sri </br>
-I handled frontend UI development for User/Admin landing pages and reservation components and their integration with backend.
-
-* Yashwant Khade </br>
-I have handled the development of entire Vehicle and ParkingLocation modules at backend, API development for special functionalities like custom vehicle search, complete security module of the backend module using JWT, and testing of the backend APIs along with integration with frontend, and documentation.
+also handled the development of the entire Reservations + Reviews module including the functional APIs, Driver/Drivercard modules, integration and regression testing for backend, and documentation.The development of entire Vehicle and ParkingLocation modules at backend, API development for special functionalities like custom vehicle search, complete security module of the backend module using JWT, and testing of the backend APIs along with integration with frontend, and documentation.
 
 ## Abstract
 
